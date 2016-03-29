@@ -64,3 +64,4 @@
 229  19:00:02 up 1 day, 14:08,  5 users,  load average: 1.01, 1.01, 1.00
 234  19:15:12 up 1 day, 14:22,  3 users,  load average: 0.00, 0.01, 0.00
 213  19:30:03 up 1 day, 14:44,  1 user,  load average: 1.00, 1.00, 1.00
+230  19:45:02 up 1 day, 14:53,  6 users,  load average: 0.26, 0.10, 0.02
