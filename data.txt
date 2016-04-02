@@ -496,3 +496,4 @@
 220  11:30:03 up 6 days,  6:41,  2 users,  load average: 0.00, 0.00, 0.00
 222  11:45:03 up 6 days,  6:56,  1 user,  load average: 0.00, 0.00, 0.00
 202  12:00:03 up 6 days,  7:18,  4 users,  load average: 0.00, 0.00, 0.00
+207  12:15:02 up 6 days,  7:31,  1 user,  load average: 0.22, 0.18, 0.09
