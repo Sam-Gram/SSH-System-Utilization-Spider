@@ -713,3 +713,4 @@
 212  19:45:03 up 2 days, 14:59,  1 user,  load average: 0.00, 0.00, 0.00
 226  20:00:03 up 2 days, 15:09,  1 user,  load average: 0.00, 0.00, 0.00
 212  20:15:03 up 2 days, 15:29,  1 user,  load average: 0.00, 0.00, 0.00
+217  20:30:02 up 2 days, 15:42,  4 users,  load average: 1.00, 1.00, 1.00
